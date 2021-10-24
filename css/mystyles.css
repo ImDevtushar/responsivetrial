@@ -1,0 +1,42 @@
+body{
+  margin-top: 50px;
+text-align: center;
+background-color: hsl(225, 100%, 94%);
+}
+
+.cp{
+  width:100%;
+  border-radius: 25px 25px 0 0 ;
+}
+.text  {
+  width: 95%;
+}
+h1{
+  margin-top: 25px;
+}
+p{
+  margin-top:25px;
+}
+.Payment{
+  background-color:  hsl(225, 100%, 98%);
+   width:85% ;height:70px;
+   margin:auto;
+   border-radius: 15px;
+}
+.row{
+  padding-top: 10px;
+}
+.linkchange{
+  margin-top: 20px;
+}
+.Change:hover{
+  text-decoration: none;
+}
+.btn{
+  margin-top:30px;
+}
+.cancel{
+  margin:30px auto ;
+  padding-bottom: 30px;
+
+}
